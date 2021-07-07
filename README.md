@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusilveiraw
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning bootstrap.
+- 🌱 I’m currently learning OPP with JavaScript.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: by my email: matheus.silveira@gmail.com
 
