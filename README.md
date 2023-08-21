@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @matheusilveiraw
-- 👀 I’m interested in web development. 
-- 🌱 I’m currently learning web development in general
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m studying JAVA and it's technologies.
 - 📫 How to reach me: by my email: matheus.silveiraw@gmail.com
 
 <!---
