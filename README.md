@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @matheusilveiraw
-- 👀 I’m studying React and Python!
 - 📫 How to reach me: by my email: matheus.silveiraw@gmail.com
 
 <!---
